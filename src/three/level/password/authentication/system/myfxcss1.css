@@ -1,0 +1,58 @@
+.acpane1{
+
+  -fx-background-color: linear-gradient(to bottom left,#575ED4, #300d33,#575ED4, #300d33,#575ED4);
+}
+
+
+
+.imgbtn:hover{   
+    -fx-opacity: 0.7;  
+ 
+
+}
+.imgbtn:pressed{
+    -fx-opacity: 1;
+    -fx-background-radius: 2000;
+    
+}
+
+.roundbtn{
+    -fx-background-color:  #300d33;
+    -fx-border-radius: 200;
+    -fx-border-color: white;
+    -fx-background-radius: 200;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    
+}
+.roundbtn2{
+    -fx-background-color:  #300d33; 
+    -fx-background-radius: 200;
+    -fx-text-fill: white;
+    
+}
+.pos{
+   -fx-background-color:  linear-gradient(to right, #00c6ff, #0072ff);   
+    -fx-background-radius: 200;
+    -fx-border-radius: 200;
+    -fx-border-width: 4;
+    
+}
+.redRound{
+     -fx-background-color:  red;                   
+     -fx-background-radius: 200;
+     -fx-text-fill: white;
+     -fx-font-weight: bold;    
+    
+}
+.blueRound{
+     -fx-background-color:  #307BFF;                   
+     -fx-background-radius: 200;
+     -fx-text-fill: white;
+     -fx-font-weight: bold;    
+    
+}
+
+
+
+
